@@ -35,7 +35,7 @@ Users should be able to:
 
 ## My process
 
-I worked from left to right. First I figured out how to get the image correctly cropped. This proved a little more difficult then I expected since I wanted to use the HTML5 picture element, but I realized that I could not adjust the images using css. I winded up using a div and setting the background image to the actual image needed. Then I used media queries to crop the background image accordingly for mobile devices. Afterwards, accessibility became a bit of a problem. I was struggling with finding semantically correct HTML tags for the inserted and deleted prices. Eventually, after some research I discovered the <ins> and <del> both of which I never knew existed before this project.
+I worked from left to right. First I figured out how to get the image correctly cropped. This proved a little more difficult then I expected since I wanted to use the HTML5 picture element, but I realized that I could not adjust the images using css. I winded up using a div and setting the background image to the actual image needed. Then I used media queries to crop the background image accordingly for mobile devices. Afterwards, accessibility became a bit of a problem. I was struggling with finding semantically correct HTML tags for the inserted and deleted prices. Eventually, after some research I discovered the ins tag and del tag both of which I never knew existed before this project.
  
 ### Built with
 
