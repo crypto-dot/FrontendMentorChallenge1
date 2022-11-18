@@ -63,7 +63,7 @@ body {
 .subHeading,
 .paragraph,
 .block__originalPrice {
-    font-size: .8rem;
+    font-size: .7rem;
 }
 
 .heading {
@@ -82,7 +82,7 @@ body {
     font-family: var(--primary-font);
     color: var(--subHeader-color);
     font-weight: 500;
-    max-width: 30ch;
+    max-width: 29ch;
 }
 
 .block--pricing {
@@ -91,7 +91,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: start;
-    gap: 1rem;
+    gap: .9rem;
 }
 
 .block__price {
@@ -104,6 +104,7 @@ body {
 .block__originalPrice {
     color: var(--subHeader-color);
     position: relative;
+    margin-top: .1rem;
 }
 
 .block__originalPrice::after {
@@ -112,7 +113,7 @@ body {
     border-bottom: 1px solid var(--subHeader-color);
     position: absolute;
     left: 0;
-    top: .4rem;
+    top: .35rem;
 }
 
 .button {
@@ -126,7 +127,7 @@ body {
     color: var(--product-bg-color);
     background-color: var(--action-color);
     padding: 1rem 2rem;
-    gap: .5rem;
+    gap: .45rem;
     border-radius: .35rem;
     cursor: pointer;
 }
