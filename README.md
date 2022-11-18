@@ -24,10 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
 <img width="1440" alt="Screen Shot 2022-11-18 at 12 39 18 AM" src="https://user-images.githubusercontent.com/78282234/202637634-12f086e5-d67a-4ed9-be91-100e67577ef0.png">
 
-Mobile
 <img width="365" alt="Screen Shot 2022-11-18 at 12 40 04 AM" src="https://user-images.githubusercontent.com/78282234/202637775-ffae378a-02d6-4d7b-b32a-5af73d1fe113.png">
 
 
