@@ -63,7 +63,7 @@ body {
 .subHeading,
 .paragraph,
 .block__originalPrice {
-    font-size: .7rem;
+    font-size: .75rem;
 }
 
 .heading {
@@ -113,7 +113,7 @@ body {
     border-bottom: 1px solid var(--subHeader-color);
     position: absolute;
     left: 0;
-    top: .35rem;
+    top: .42rem;
 }
 
 .button {
@@ -127,9 +127,10 @@ body {
     color: var(--product-bg-color);
     background-color: var(--action-color);
     padding: 1rem 2rem;
-    gap: .45rem;
+    gap: .5rem;
     border-radius: .35rem;
     cursor: pointer;
+    font-size: .9rem;
 }
 
 .button:active,
