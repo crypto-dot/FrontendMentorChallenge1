@@ -99,21 +99,13 @@ body {
     font-family: var(--call-to-action-font);
     color: var(--action-color);
     font-size: 2rem;
+    text-decoration: none;
 }
 
 .block__originalPrice {
     color: var(--subHeader-color);
     position: relative;
     margin-top: .1rem;
-}
-
-.block__originalPrice::after {
-    content: "";
-    width: 100%;
-    border-bottom: 1px solid var(--subHeader-color);
-    position: absolute;
-    left: 0;
-    top: .42rem;
 }
 
 .button {
