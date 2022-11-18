@@ -13,8 +13,6 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -52,9 +50,9 @@ How to provide accessbility as well as using semantically correct HTML tags that
 
 ### Continued development
 
-Accessibility is something I am really lacking. For the most part I understand the overall structure and flow of a semantically correct HTML document (there may be some research needed for some odd tags that I don't use that often), however I'm far from perfect on it and it is a skill I need to further improve.
+* Accessibility is something I am really lacking. 
+* For the most part I understand the overall structure and flow of a semantically correct HTML document (there may be some research needed for some odd tags that I don't use that often), however I'm far from perfect on it and it is a skill I need to further improve.
 
-*
 ### Useful resources
 
 - [<ins> documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins#:~:text=The%20HTML%20element%20represents,been%20deleted%20from%20the%20document.) - Helped me understand <ins> tags.
