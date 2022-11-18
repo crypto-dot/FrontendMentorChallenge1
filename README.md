@@ -53,9 +53,9 @@ How to provide accessbility as well as using semantically correct HTML tags that
 
 ### Useful resources
 
-- [<ins> documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins#:~:text=The%20HTML%20element%20represents,been%20deleted%20from%20the%20document.) - Helped me understand <ins> tags.
-- [<del> documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del#:~:text=The%20HTML%20element%20represents,been%20added%20to%20the%20document.) - Helped me understand <del> tags.
-- [accessibility documentation] (https://www.w3.org/TR/wai-aria-1.2/#generic) - Provided more information on accessibility
+- [ins tag documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins#:~:text=The%20HTML%20element%20represents,been%20deleted%20from%20the%20document.) - Helped me understand <ins> tags.
+- [del tag documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del#:~:text=The%20HTML%20element%20represents,been%20added%20to%20the%20document.) - Helped me understand <del> tags.
+- [accessibility documentation](https://www.w3.org/TR/wai-aria-1.2/#generic) - Provided more information on accessibility
 
 ## Author
 
